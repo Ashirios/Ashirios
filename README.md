@@ -51,21 +51,6 @@ Here are some projects I’ve built while learning backend development:
 
 ---
 
-##  GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashirios&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashirios&layout=compact&theme=tokyonight&hide_border=true&hide=html,css"/>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashirios/Ashirios/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashirios/Ashirios/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ashirios/Ashirios/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 ##  Let’s Connect
 
 I’m always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out!
