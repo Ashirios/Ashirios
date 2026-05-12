@@ -51,7 +51,7 @@ Here are some projects I’ve built while learning backend development:
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ashirios&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
